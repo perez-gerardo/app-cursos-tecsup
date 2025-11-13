@@ -45,12 +45,6 @@ Cada curso contiene:
 }
 ```
 
-## Capturas sugeridas
-- Lista de cursos local (antes de sincronizar).
-- Snackbar “Cursos actualizados”.
-- Lista remota luego de presionar “Sincronizar”.
-- Mensaje de error si no hay conexión (opcional).
-
 ## Licencia
 Proyecto académico para el curso de Programación Móvil en TECSUP. Uso educativo.
 
